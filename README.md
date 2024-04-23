@@ -9,7 +9,7 @@ Employee
 - tax
 
 + netSalary(): double
-+ increaseSalary(): 
++ increaseSalary(): void
 
 UTILIZAÇÃO DE:
 
